@@ -7,29 +7,29 @@ Solve complex optimization problems with Discrete Optimization concepts and algo
 * Constraint Programming
 * Local Search
 * Linear Programming
-* Mixed Integer Programming
+* Mixed Integer Programming (MIP)
 * Advanced Ensemble models: Combine MIP and Local Search
 
 The use of each algorithm clearly will depend on the magnitude of the problem. Some of them will require an heuristic approach as Local Search or even the combination of many techniques
 
 Some of the solutions can still be improved for the big testsets.
 
-## KNAPSACK PROBLEM
+### KNAPSACK PROBLEM
 
 Solution: Branch and Bound
 
-## GRAPH COLORING
+### GRAPH COLORING
 
 Solution: Local Search
 
-## TRAVELING SALESMAN
+### TRAVELING SALESMAN
 
 Solution: Local Search
 
-## FACILITY LOCATION
+### FACILITY LOCATION
 
 Solution: MIP
 
-## VEHICLE ROUTING
+### VEHICLE ROUTING
 
 Solution: MIP / Local Search
